@@ -4,7 +4,7 @@
 
 Hello everyone ✌️ 
 
-The project shows how easy it is to create Today Extension to the application. The example shows how you can simply exchange data between the application and the Today Extension using ***AppGroup***.
+The project shows how easy it is to create Today Extension to the application, also project shows how you can simply exchange data between the application and the Today Extension using ***AppGroup.***
 
 If you like the project, do not forget to put star and follow me on GitHub:
 
