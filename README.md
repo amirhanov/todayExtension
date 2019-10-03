@@ -4,7 +4,9 @@
 
 Hello everyone ✌️ 
 
-The project shows how easy it is to create Today Extension to the application, also project shows how you can simply exchange data between the application and the Today Extension using AppGroup.
+The project shows how easy it is to create Today Extension to the application, also project shows how you can simply exchange data between the application and the Today Extension using AppGroup. You will meet with:
+- AppGroup
+- Today Extension
 
 If you like the project, do not forget to put star and follow me on GitHub:
 
@@ -16,7 +18,7 @@ Swift `3 +`
 
 ## Example
 
-To run the example project, you need press `Command` + `R` or `Play`. You can see tutorial for this project on [YouTube](https://youtu.be/nD0HGs_2BcE). After watching this video, you will learn how to create an ***Today Extension***, use an **AppGroup** and share data between app and extension.
+To run the example project, you need press `Command` + `R` or `Play`. You can see tutorial for this project on [YouTube](https://youtu.be/nD0HGs_2BcE). After watching this video, you will learn how to create an **Today Extension**, use an **AppGroup** and share data between app and extension.
 
 ## Usage
 
