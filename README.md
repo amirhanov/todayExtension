@@ -1,12 +1,10 @@
 # Today Extension
 
-<img align="right" src="https://github.com/amirhanov/swipeableTableViewCell/blob/master/Source/gif.gif" height="250"/>
+<img align="right" src="https://github.com/amirhanov/todayExtension/blob/master/Source/gif.gif" height="250"/>
 
 Hello everyone ✌️ 
 
-Create swipe-able cell with action for TableView Cell. Also you may read [Documentation](https://developer.apple.com/documentation/uikit/uitableviewdelegate/1614956-tableview) by Apple. In the project you will find private functions that are responsible for:
-- Removing value from array and TableView
-- Open UIAlertController  
+The project shows how easy it is to create Today Extension to the application. The example shows how you can simply exchange data between the application and the Today Extension using ***AppGroup***.
 
 If you like the project, do not forget to put star and follow me on GitHub:
 
