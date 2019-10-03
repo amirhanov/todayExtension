@@ -4,7 +4,9 @@
 
 Hello everyone ✌️ 
 
-The project shows how easy it is to create Today Extension to the application, also project shows how you can simply exchange data between the application and the Today Extension using ***AppGroup.***
+The project shows how easy it is to create Today Extension to the application, also project shows how you can simply exchange data between the application and the Today Extension using AppGroup.
+- App Group
+- Today Extension
 
 If you like the project, do not forget to put star and follow me on GitHub:
 
@@ -16,28 +18,11 @@ Swift `3+`
 
 ## Example
 
-To run the example project, you need press `Command` + `R` or `Play`. You can see tutorial for this project on [YouTube](https://youtu.be/eVBg6xkwGHo). In the video tutorial, you will learn how to create an array, assign it to table cells and create actions for cells.
+To run the example project, you need press `Command` + `R` or `Play`. You can see tutorial for this project on [YouTube](https://youtu.be/eVBg6xkwGHo). After watching this video, you will learn how to create an ***Today Extension***, use an ***AppGroup*** and share data between app and extension.
 
 ## Usage
 
-How to add new action button? so you need  to: 
-
-1. In **editActionsForRowAt** method you need to add new lines: 
-
-```
-let nameAction = UITableViewRowAction(style: .default, title: "Share") { (_, indePath) in
-
-     // action
-}
-```
-
-2. Return button in array ***return***:
-
-```
-return [nameAction, ...]
-```
-
-3. Press `Command + R` or `Play` and run project. **Great!**
+Press `Command + R` or `Play` and run project. **Great!**
 
 ## Support
 
